@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+*I'm currently figuring out how to get started, so don't mind how empty this looks.*
+
 <!--
 **everythingawesometech/everythingawesometech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
